@@ -1,2 +1,3 @@
 # kinect
-Code samples for Microsoft Kinect for Windows
+# A aplicação depende do uso do kinect do xbox 360
+
